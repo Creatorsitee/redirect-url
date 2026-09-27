@@ -3,7 +3,7 @@
   "redirects": [
     {
       "source": "/:path*",
-      "destination": "https://whatsapp.com/channel/0029VbCox0f17Emr10Bdlj0V:path*",
+      "destination": "https://whatsapp.com/channel/0029VbCox0f17Emr10Bdlj0V/:path*",
       "statusCode": 308
     }
   ]
